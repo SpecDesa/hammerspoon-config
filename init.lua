@@ -6,7 +6,7 @@ local myFunctions = require("myFunctions")
  hs.hotkey.bindSpec({ { "ctrl", "cmd", "alt" }, "h" },
     function()
       hs.notify.show("Hello World!", "Welcome to Hammerspoon", "")
-      myFunctions.startFetch('+4521294197', 'https://secure.onreg.com/onreg2/bibexchange/?eventid=6087&language=us')
+      myFunctions.startFetch('+4512345678','url.com' 
     end
   )
 
